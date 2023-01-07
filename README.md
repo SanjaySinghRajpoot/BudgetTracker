@@ -1,3 +1,5 @@
+## BudgetTracker
+A Simple budget tracker and bill splitting application. 
 ### Technologies Used
 
 - Reactjs
@@ -25,8 +27,8 @@ Install all the dependecies using `npm install` than use `nodemon index.js` to s
 
 ## Testing ID 
 
-email - rohit_new22@gmail.com 
-passoword - 123456
+email - `rohit_new22@gmail.com`
+password - `123456`
 
 ## Images
 ![Screenshot_20230105_215321](https://user-images.githubusercontent.com/67458417/211132079-0cbdd237-e9d9-4261-81ca-9909df9aecec.png)
